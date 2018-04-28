@@ -1,6 +1,2 @@
-#include <stdio.h>
-
-int main(void)
-{
-    printf("hello, world\n");
-}
+var x = 5;
+x = x +1;
